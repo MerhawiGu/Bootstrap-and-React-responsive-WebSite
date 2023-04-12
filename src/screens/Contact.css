@@ -1,0 +1,11 @@
+
+.contact-form-container{
+    width:50vw; 
+    border:1px solid #ccc;
+ } 
+@media(max-width:768px){
+    .contact-form-container{
+        width:95vw;
+        border:1px solid #ccc;
+     }
+}
